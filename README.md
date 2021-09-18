@@ -1,2 +1,1 @@
-# ReactNative
-Let's go learn multiplatform from ReactNative Framework
+#Let's go learn multiplatform from ReactNative Framework
